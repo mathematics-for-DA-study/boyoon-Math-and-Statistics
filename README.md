@@ -1,6 +1,6 @@
 # Mathematics
 
-1. [통계학 Statistics](./Practical-Statistics-for-Data-Scientists)
+1. 통계학 Statistics
     - 교재 : 데이터 과학을 위한 통계 (한빛미디어)
     - 21.08.30 월요일 ~ 
     - 목차
